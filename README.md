@@ -13,11 +13,11 @@ In order to convert the raw data from the Kickstarter data set into a more reada
 
 ### Analysis of Outcomes Based on Launch Date
 The chart shows that the most successful plays were launched during the Spring and Summer months, May having the highest number of successful plays by far.  June and July were also quite successful.  Interestingly, the number of failed plays were generally in the Summer as well, with October also holding a high number of failed plays.  Throughout the year, there were very few canceled plays, with the most being cancelled in January.
-![image] (https://github.com/helge205/Week1_Excel_HW/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
+https://github.com/helge205/Week1_Excel_HW/blob/main/Resources/Theatre_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 Overall, this chart shows that generally, the higher the goal is, the higher the percentage in failed outcomes and the lower percentage is in successful outcomes.  Meaning, you may be more successful asking for less money, namely less than $25,000.  It does look like there is an exception where the goal to raise $35,00 - $44,999 were more successful as well.
-![image] (https://github.com/helge205/Week1_Excel_HW/blob/main/Resources/Outcomes_vs_Goals.png)
+https://github.com/helge205/Week1_Excel_HW/blob/main/Resources/Outcomes_vs_Goals.png
 
 
 ### Limitations and Recommendations
